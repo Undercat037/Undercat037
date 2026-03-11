@@ -1,16 +1,51 @@
-## Hi there 👋
+> Personal:
+>
+> 🗺    Sumy, Ukraine
+> 
+> 🕑    UTC +2
+> 
+> 🎂    16.10.2009 (16year)
+>
+> 🚻    Man
+> 
+> 🗣    🇺🇦🇬🇧🇷🇺
 
-<!--
-**Undercat037/Undercat037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Socials:
+> 
+> [Telegram](https://t.me/Deltacat037)
+> 
+> [Steam](https://steamcommunity.com/profiles/76561199466585985/)
+> 
+> [Discord](https://discordapp.com/users/1024234632000045137)
 
-Here are some ideas to get you started:
+> Favorite games:
+> 
+> HollowKnight / Silksong
+> 
+> UltraKill
+> 
+> Celeste
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Hardware:
+> 
+> Host:: ASUS TUF Gaming A15 FA507NVR_FA507NVR
+> 
+> CPU:: AMD Ryzen 7 7435HS (16) @ 4.55 GHz
+> 
+> GPU:: NVIDIA GeForce RTX 4060 Max-Q / Mobile [Discrete]
+> 
+> RAM:: 16GiB
+
+> Software:
+> 
+> OS:: Arch Linux x86_64
+> 
+> Text:: nano
+> 
+> IDE:: VS Code
+> 
+> Shell:: fish
+> 
+> Terminal:: kitty
+> 
+> WM:: Hyprland+Niri
