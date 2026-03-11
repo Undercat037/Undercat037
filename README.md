@@ -25,27 +25,3 @@
 > UltraKill
 > 
 > Celeste
-
-> Hardware:
-> 
-> Host:: ASUS TUF Gaming A15 FA507NVR_FA507NVR
-> 
-> CPU:: AMD Ryzen 7 7435HS (16) @ 4.55 GHz
-> 
-> GPU:: NVIDIA GeForce RTX 4060 Max-Q / Mobile [Discrete]
-> 
-> RAM:: 16GiB
-
-> Software:
-> 
-> OS:: Arch Linux x86_64
-> 
-> Text:: nano
-> 
-> IDE:: VS Code
-> 
-> Shell:: fish
-> 
-> Terminal:: kitty
-> 
-> WM:: Hyprland+Niri
