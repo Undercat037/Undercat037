@@ -1,14 +1,3 @@
-> Personal:
->
-> 🗺    Sumy, Ukraine
-> 
-> 🕑    UTC +2
-> 
-> 🎂    16.10.2009 (16year)
->
-> 🚻    Man
-> 
-> 🗣    🇺🇦🇬🇧🇷🇺
 
 > Socials:
 > 
