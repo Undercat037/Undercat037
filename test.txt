@@ -5,3 +5,4 @@ test Testing pair programming 2
 test Testing pair programming 3
 test yolo4
 test yolo5
+test yolo6
