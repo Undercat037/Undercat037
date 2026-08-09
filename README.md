@@ -10,8 +10,9 @@
 - **Залізо:** ASUS TUF-A15 (Ryzen 7 7435HS + RTX 4060 Max-Q)
 
 ### 💻 Мови та скриптинг:
-Rust, Bash/Fish, HTML
-
+- Rust
+- Bash/Fish
+- HTML
 ### 🎯 Поточний фокус:
 - Pentesting / Red Team
 - Системна розробка на Rust
