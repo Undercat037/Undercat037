@@ -21,6 +21,9 @@
 ---
 > **Socials:**
 > 
-> [![AUR](https://img.shields.io/badge/AUR-grey?style=flat-square&logo=arch-linux&logoColor=white)](https://aur.archlinux.org/packages?K=Deltacat&SeB=m) [![GitLab](https://img.shields.io/badge/GitLab-grey?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/Undercat037)
+> [![AUR](https://img.shields.io/badge/AUR-333333?style=flat-square&logo=arch-linux&logoColor=1793D1)](https://aur.archlinux.org/packages?K=Deltacat&SeB=m) [![GitLab](https://img.shields.io/badge/GitLab-333333?style=flat-square&logo=gitlab&logoColor=FC6D26)](https://gitlab.com/Undercat037)
 >
-> [![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Deltacat037) [![Discord](https://img.shields.io/badge/Discord-grey?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1024234632000045137)
+> [![Telegram](https://img.shields.io/badge/Telegram-333333?style=flat-square&logo=telegram&logoColor=2CA5E0)](https://t.me/Deltacat037) [![Discord](https://img.shields.io/badge/Discord-333333?style=flat-square&logo=discord&logoColor=5865F2)](https://discordapp.com/users/1024234632000045137)
+
+
+
