@@ -19,7 +19,7 @@
 - Системна розробка на Rust
 - Кастомізація Linux-оточення
   
-### Основні проекти
+### 📌 Основні проекти:
 - [Aura-Emerge](https://undercat037.github.io/aura-emerge/)
 
 ---
