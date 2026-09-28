@@ -12,11 +12,15 @@
 ### 💻 Мови та скриптинг:
 - Rust
 - Bash/Fish
-- HTML
+- HTML/CSS
+  
 ### 🎯 Поточний фокус:
 - Pentesting / Red Team
 - Системна розробка на Rust
 - Кастомізація Linux-оточення
+  
+### Основні проекти
+- [Aura-Emerge](https://undercat037.github.io/aura-emerge/)
 
 ---
 > **Socials:**
