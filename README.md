@@ -6,7 +6,7 @@
 ### 🛠️ Мій сетап:
 - **ОС:** Arch (основна), Gentoo
 - **WM:** niri/umbriel + noctalia
-- **ПЗ:** Neovim, kitty, fish, zen-browser, aura-emerge
+- **ПЗ:** Neovim, kitty, fish, zed, zen-browser, aura-emerge
 - **Залізо:** ASUS TUF-A15 (Ryzen 7 7435HS + RTX 4060 Max-Q)
 
 ### 💻 Мови та скриптинг:
